@@ -1,4 +1,6 @@
 # Envision-26-D03 🚀🚀
+<img width="1270" height="709" alt="Screenshot 2026-03-28 105955" src="https://github.com/user-attachments/assets/36bd5105-d793-4ef7-a87a-b47447d541df" />
+
 The purpose of this repository is to keep track of the sessions and keep track of all the assignments given
 
 ## PPT's ⭐
